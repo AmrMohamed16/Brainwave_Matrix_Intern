@@ -12,10 +12,10 @@
 * [Strategic_Recommendations](#Strategic_Recommendations)
 
 
-  # Brief
+# Brief
    * This project investigates Diwali sales data to uncover key consumer patterns during festive shopping. It emphasizes customer demographics such as gender, age, marital status, and occupation, alongside geographic and product-based sales insights. The goal is to support businesses in enhancing festive season strategies with data-driven decisions.
 
-  # Project_Goal
+# Project_Goal
 
   Analyze purchasing behavior by gender, age, and marital status
   Evaluate state-wise sales performance
