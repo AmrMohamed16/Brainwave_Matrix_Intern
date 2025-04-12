@@ -8,7 +8,7 @@
 * [DataSet](#DataSet)
 * [Tools](#Tools)
 * [Project_Highlights](#Project_Highlights)
-* [Insights_&_Discoveries](#Insights_&_Discoveries)
+* [Insights](#Insights)
 * [Strategic_Recommendations](#Strategic_Recommendations)
 
 
@@ -44,7 +44,7 @@
 
 
 
-# Insights_&_Discoveries
+# Insights
 * Gender: Female customers lead in both purchase volume and total spend
 * Age Group: Majority of transactions come from the 26–35 age segment
 * Marital Status: Married women show the highest engagement and spending
