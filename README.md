@@ -7,7 +7,7 @@
 * [Project_Goal](#Project_Goal) 
 * [DataSet](#DataSet)
 * [Tools](#Tools)
-* [🔍Project_Highlights](#🔍Project_Highlights)
+* [Project_Highlights](#Project_Highlights)
 * [📊Insights_&_Discoveries](#📊Insights_&_Discoveries)
 * [Strategic_Recommendations](#Strategic_Recommendations)
 
@@ -35,7 +35,7 @@
 * pandas, seaborn, matplotlib
 
 
-# 🔍 Project_Highlights
+# Project_Highlights
 * Cleaned and preprocessed the dataset for accurate analysis
 * Conducted segmentation based on demographics and geography
 * Visualized consumer behavior across states and product categories
