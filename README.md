@@ -7,7 +7,7 @@
 * [Project_Goal](#Project_Goal) 
 * [DataSet](#DataSet)
 * [Tools](#Tools)
-* [Project_Highlights](#Project_Highlights)
+* [ 🔍 Project_Highlights](# 🔍 Project_Highlights)
 * [📊Insights_&_Discoveries](#📊Insights_&_Discoveries)
 * [Strategic_Recommendations](#Strategic_Recommendations)
 
