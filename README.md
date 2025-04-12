@@ -8,7 +8,7 @@
 * [DataSet](#DataSet)
 * [Tools](#Tools)
 * [Project_Highlights](#Project_Highlights)
-* [📊Insights_&_Discoveries](#📊Insights_&_Discoveries)
+* [Insights_&_Discoveries](#Insights_&_Discoveries)
 * [Strategic_Recommendations](#Strategic_Recommendations)
 
 
@@ -44,7 +44,7 @@
 
 
 
-# 📊Insights_&_Discoveries
+# Insights_&_Discoveries
 * Gender: Female customers lead in both purchase volume and total spend
 * Age Group: Majority of transactions come from the 26–35 age segment
 * Marital Status: Married women show the highest engagement and spending
@@ -54,7 +54,7 @@
 
 
 
-# 💡 Strategic_Recommendations
+# Strategic_Recommendations
 * Targeted Campaigns for Women Aged 26–35: Personalize marketing efforts to resonate with this dominant demographic
 * Prioritize High-Sales Regions: Enhance logistics, promotions, and inventory for leading states
 * Category-Focused Promotions: Highlight products favored by professional women to increase conversions
