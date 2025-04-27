@@ -35,6 +35,8 @@ This project analyzes Diwali shopping data to uncover consumer behavior insights
 * Targeted Campaigns: Focus on women aged 26–35.
 * Top Regions: Strengthen promotions in high-revenue states.
 
+  <hr>
+
 ### Project 2: Sentiment Analysis
 
 This project analyzes negative sentiment hashtags from social media to uncover emotional trends and mental health insights for content moderation and awareness.
