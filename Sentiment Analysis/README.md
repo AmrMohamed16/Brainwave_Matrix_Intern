@@ -1,4 +1,4 @@
-# Sentiment Analysis
+# MindMap: Social Emotion Analysis
 A data analysis project focused on understanding negative emotions shared online.
 This initiative leverages text processing and visualization techniques to analyze negative sentiment hashtags, identify emotional trends, and generate actionable insights for mental
  health awareness, online community management, and content moderation strategies.
